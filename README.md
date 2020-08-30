@@ -40,7 +40,6 @@
 [<img align="left" alt="Angel Dhakal | Instagram" width="40px" src="https://image.flaticon.com/icons/png/512/25/25231.png" />][github]
 <br/>
 <br/>
-<br/>
 
 ---
 

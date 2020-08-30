@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on Personal Projects
 - 🌱 I’m currently learning node js
 - 👯 2020 Goals: Contribute more to Open Source projects
-- 📫 How to reach me: twitter @AnjalDhakal2
+- 📫 How to reach me: [@AnjalDhakal2][twitter]
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: There is no fun fact about me
 
@@ -17,6 +17,7 @@
 [<img align="left" alt="Twitter" width="35px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-2-1.png" />][twitter]
 [<img align="left" alt="LinkedIn" width="35px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
 [<img align="left" alt="Instagram" width="55px" src="https://i.pinimg.com/originals/8a/77/05/8a770507298d728a1e3e039a0507dd8e.png" />][instagram]
+[<img align="left" alt="Instagram" width="35px" src="https://www.freepnglogos.com/uploads/facebook-logo-icon/facebook-logo-icon-file-facebook-icon-svg-wikimedia-commons-4.png" />][facebook]
 
 <br />
 <br />
@@ -36,9 +37,22 @@
 [<img align="left" alt="Angel Dhakal | Instagram" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" />][github]
 [<img align="left" alt="Angel Dhakal | Instagram" width="35px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />][github]
 [<img align="left" alt="Angel Dhakal | Instagram" width="40px" src="https://image.flaticon.com/icons/png/512/25/25231.png" />][github]
+<br/>
+<br/>
+<br/>
+
+---
+
+<br/>
+
+### Github Stats
+
+<br/>
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=AngelDhakal&show_icons=true&hide_border=true" />
 
 [website]: https://anjaldhakal.com.np
 [twitter]: https://twitter.com/AnjalDhakal2
 [instagram]: https://www.instagram.com/anjal_dkl/
 [linkedin]: www.linkedin.com/in/angeldhakal
+[facebook]: https://www.facebook.com/anjal.dhakal.96/
 [github]: https://github.com/AngelDhakal

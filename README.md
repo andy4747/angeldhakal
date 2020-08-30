@@ -51,8 +51,6 @@
 - [Cookie Clearer Chrome Extension][cookie-clearer]
 - [Staff Hiring System in Java][staff-hiring]
 
-## <br/>
-
 ---
 
 ### Github Stats

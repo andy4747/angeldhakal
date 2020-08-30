@@ -44,8 +44,6 @@
 
 ---
 
-<br/>
-
 ### Projects
 
 - [Todo Aplication Using NodeJS][todo-node]

@@ -52,13 +52,15 @@
 - [Cookie Clearer Chrome Extension][cookie-clearer]
 - [Staff Hiring System in Java][staff-hiring]
 
----
+## <br/>
 
-<br/>
+---
 
 ### Github Stats
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=AngelDhakal&show_icons=true&hide_border=true" />
+
+<br/>
 
 [website]: https://anjaldhakal.com.np
 [twitter]: https://twitter.com/AnjalDhakal2

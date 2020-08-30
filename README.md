@@ -13,29 +13,29 @@
 
 ### Connect with me:
 
-[<img align="left" alt="anjaldhakal.com.np" width="35px" src="github/images/web.png" />][website]
-[<img align="left" alt="Angel Dhakal | Twitter" width="35px" src="github/images/twitter.png" />][twitter]
-[<img align="left" alt="Angel Dhakal | LinkedIn" width="35px" src="github/images/linkedin.png" />][linkedin]
-[<img align="left" alt="Angel Dhakal | Instagram" width="40px" src="github/images/instagram.png" />][instagram]
+[<img align="left" alt="anjaldhakal.com.np" width="35px" src="https://www.pngitem.com/pimgs/m/529-5296115_logo-icon-web-png-png-download-transparent-background.png" />][website]
+[<img align="left" alt="Twitter" width="35px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-2-1.png" />][twitter]
+[<img align="left" alt="LinkedIn" width="35px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
+[<img align="left" alt="Instagram" width="55px" src="https://i.pinimg.com/originals/8a/77/05/8a770507298d728a1e3e039a0507dd8e.png" />][instagram]
 
 <br />
 <br />
 
 ### Languages and Tools:
 
-[<img align="left" alt="html" width="35px" src="github/images/html5.png" />][github]
-[<img align="left" alt="Angel Dhakal | Twitter" width="35px" src="github/images/css3.png" />][github]
-[<img align="left" alt="Angel Dhakal | LinkedIn" width="35px" src="github/images/javascript.png" />][github]
-[<img align="left" alt="Angel Dhakal | Instagram" width="35px" src="github/images/typescript.png" />][github]
-[<img align="left" alt="Angel Dhakal | Instagram" width="35px" src="github/images/node.png" />][github]
-[<img align="left" alt="Angel Dhakal | Instagram" width="35px" src="github/images/python.png" />][github]
-[<img align="left" alt="Angel Dhakal | Instagram" width="35px" src="github/images/django.png" />][github]
-[<img align="left" alt="Angel Dhakal | Instagram" width="35px" src="github/images/react.png" />][github]
-[<img align="left" alt="Angel Dhakal | Instagram" width="30px" src="github/images/db.png" />][github]
-[<img align="left" alt="Angel Dhakal | Instagram" width="35px" src="github/images/postgres.png" />][github]
-[<img align="left" alt="Angel Dhakal | Instagram" width="35px" src="github/images/linux.png" />][github]
-[<img align="left" alt="Angel Dhakal | Instagram" width="35px" src="github/images/git.png" />][github]
-[<img align="left" alt="Angel Dhakal | Instagram" width="40px" src="github/images/gtihub.png" />][github]
+[<img align="left" alt="html" width="35px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-512.png" />][github]
+[<img align="left" alt="Angel Dhakal | Twitter" width="35px" src="https://cdn.iconscout.com/icon/free/png-256/css3-9-1175237.png" />][github]
+[<img align="left" alt="Angel Dhakal | LinkedIn" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" />][github]
+[<img align="left" alt="Angel Dhakal | Instagram" width="35px" src="https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png" />][github]
+[<img align="left" alt="Angel Dhakal | Instagram" width="35px" src="https://www.guarana-technologies.com/wp-content/uploads/2017/08/node-js-web-app-development.png" />][github]
+[<img align="left" alt="Angel Dhakal | Instagram" width="35px" src="https://lh3.googleusercontent.com/proxy/J_aJvxzHafJFspy2V4nDwtJaWsqp0jpsZz6_jgqQEJnq9T_1TS9vxcOiyOzGmxExo7Xi1HfGc_XdDZOHNiaG5vudp5R9JEHF-U4dLOm1GB4wdBom-WU9BZfsD3-8_IAFdopNkrIDrhvGQQ" />][github]
+[<img align="left" alt="Angel Dhakal | Instagram" width="30px" src="https://cdn.freebiesupply.com/logos/large/2x/django-logo-png-transparent.png" />][github]
+[<img align="left" alt="Angel Dhakal | Instagram" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" />][github]
+[<img align="left" alt="Angel Dhakal | Instagram" width="30px" src="https://freepngimg.com/thumb/database/6-2-database-free-png-image.png" />][github]
+[<img align="left" alt="Angel Dhakal | Instagram" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" />][github]
+[<img align="left" alt="Angel Dhakal | Instagram" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" />][github]
+[<img align="left" alt="Angel Dhakal | Instagram" width="35px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />][github]
+[<img align="left" alt="Angel Dhakal | Instagram" width="40px" src="https://image.flaticon.com/icons/png/512/25/25231.png" />][github]
 
 [website]: https://anjaldhakal.com.np
 [twitter]: https://twitter.com/AnjalDhakal2

@@ -46,6 +46,18 @@
 
 <br/>
 
+### Projects
+
+- [Todo Aplication Using NodeJS][todo-node]
+- [Expense Tracker Using Django][expense-tracker]
+- [Binary Byte Adder in Python][byte-adder]
+- [Cookie Clearer Chrome Extension][cookie-clearer]
+- [Staff Hiring System in Java][staff-hiring]
+
+---
+
+<br/>
+
 ### Github Stats
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=AngelDhakal&show_icons=true&hide_border=true" />
@@ -56,3 +68,11 @@
 [linkedin]: www.linkedin.com/in/angeldhakal
 [facebook]: https://www.facebook.com/anjal.dhakal.96/
 [github]: https://github.com/AngelDhakal
+
+<!-- Project Links -->
+
+[todo-node]: https://github.com/AngelDhakal/todo-application-node
+[expense-tracker]: https://github.com/AngelDhakal/Expense-Tracker
+[byte-adder]: https://github.com/AngelDhakal/byte-adder
+[cookie-clearer]: https://github.com/AngelDhakal/sesion-clear-extension
+[staff-hiring]: https://github.com/AngelDhakal/staff-hiring-system

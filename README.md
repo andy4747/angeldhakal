@@ -39,7 +39,7 @@
 [<img align="left" alt="Typescript" width="35px" src="https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png" />][github]
 [<img align="left" alt="Node js" width="35px" src="https://www.guarana-technologies.com/wp-content/uploads/2017/08/node-js-web-app-development.png" />][github]
 
-[<img align="left" alt="Python" width="35px" src="https://lh3.googleusercontent.com/proxy/J_aJvxzHafJFspy2V4nDwtJaWsqp0jpsZz6_jgqQEJnq9T_1TS9vxcOiyOzGmxExo7Xi1HfGc_XdDZOHNiaG5vudp5R9JEHF-U4dLOm1GB4wdBom-WU9BZfsD3-8_IAFdopNkrIDrhvGQQ" />][github]
+[<img align="left" alt="Python" width="35px" src="https://www.pngitem.com/pimgs/m/31-312064_programming-icon-png-python-logo-512-transparent-png.png" />][github]
 
 [<img align="left" alt="Angel Dhakal | Instagram" width="30px" src="https://cdn.freebiesupply.com/logos/large/2x/django-logo-png-transparent.png" />][github]
 

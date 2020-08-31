@@ -64,7 +64,7 @@
 [website]: https://anjaldhakal.com.np
 [twitter]: https://twitter.com/AnjalDhakal2
 [instagram]: https://www.instagram.com/anjal_dkl/
-[linkedin]: www.linkedin.com/in/angeldhakal
+[linkedin]: https://www.linkedin.com/in/angeldhakal/
 [facebook]: https://www.facebook.com/anjal.dhakal.96/
 [github]: https://github.com/AngelDhakal
 

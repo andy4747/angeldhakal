@@ -7,7 +7,7 @@
 - 👯 2020 Goals: Contribute more to Open Source projects
 - 📫 How to reach me: [@AnjalDhakal2][twitter]
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: There is no fun fact about me
+- ⚡ Fun fact: I am a late night coder
 
 <br />
 

@@ -2,6 +2,7 @@
 
 [<img align="center" alt="Twitter" width="1000px" src="https://1.bp.blogspot.com/-UfngJHa3N54/X1Cf8jPRPhI/AAAAAAAABA4/4x8LeEKHpoctIF9wUJpcQOB90AgPhsbQACNcBGAsYHQ/s1950/pythonNode.png" />][github]
 
+---
 
 ## I'm a Student and a Developer
 

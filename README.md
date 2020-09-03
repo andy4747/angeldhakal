@@ -1,6 +1,6 @@
 ### Hi there, I'm Angel 👋
 
-[<img align="left" alt="Twitter" width="35px" src="https://djangostars.com/blog/uploads/2019/01/Python-vs-Node-cover-image.png" />][github]
+[<img align="center" alt="Twitter" width="500px" src="https://djangostars.com/blog/uploads/2019/01/Python-vs-Node-cover-image.png" />][github]
 
 ---
 

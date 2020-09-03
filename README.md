@@ -1,5 +1,9 @@
 ### Hi there, I'm Angel 👋
 
+[<img align="left" alt="Twitter" width="35px" src="https://djangostars.com/blog/uploads/2019/01/Python-vs-Node-cover-image.png" />][github]
+
+---
+
 ## I'm a Student and a Developer
 
 - 🔭 I’m currently working on Personal Projects

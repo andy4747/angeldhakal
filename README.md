@@ -21,18 +21,6 @@
 
 <br /> -->
 
-### Connect with me:
-
-<!-- [<img align="left" alt="anjaldhakal.com.np" width="35px" src="https://www.pngitem.com/pimgs/m/529-5296115_logo-icon-web-png-png-download-transparent-background.png" />][website] -->
-
-[<img align="left" alt="Twitter" width="35px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-2-1.png" />][twitter]
-[<img align="left" alt="LinkedIn" width="35px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
-[<img align="left" alt="Instagram" width="40px" src="https://instagram-brand.com/wp-content/themes/ig-branding/assets/images/ig-logo-email.png" />][instagram]
-[<img align="left" alt="Facebook" width="35px" src="https://www.freepnglogos.com/uploads/facebook-logo-icon/facebook-logo-icon-file-facebook-icon-svg-wikimedia-commons-4.png" />][facebook]
-
-<br />
-<br />
-
 ### Languages and Tools:
 
 <!-- [<img align="left" alt="vscode" width="35px" src="https://1.bp.blogspot.com/-o4DFm8ezwIo/X1CZU2msEOI/AAAAAAAABAI/pkZ7ACL5OT0SICDfK8MdcyZvg7R0N1nXgCNcBGAsYHQ/s1024/vscode.png" />][github] -->
@@ -78,7 +66,22 @@
 <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=angeldhakal&layout=compact" alt="devded" />
 </p>
 
+[![](https://raw.githubusercontent.com/AngelDhakal/AngelDhakal/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 <br/>
+<br/>
+
+### Connect with me:
+
+<!-- [<img align="left" alt="anjaldhakal.com.np" width="35px" src="https://www.pngitem.com/pimgs/m/529-5296115_logo-icon-web-png-png-download-transparent-background.png" />][website] -->
+
+[<img align="left" alt="Twitter" width="35px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-2-1.png" />][twitter]
+[<img align="left" alt="LinkedIn" width="35px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
+[<img align="left" alt="Instagram" width="40px" src="https://instagram-brand.com/wp-content/themes/ig-branding/assets/images/ig-logo-email.png" />][instagram]
+[<img align="left" alt="Facebook" width="35px" src="https://www.freepnglogos.com/uploads/facebook-logo-icon/facebook-logo-icon-file-facebook-icon-svg-wikimedia-commons-4.png" />][facebook]
+
+<br />
+<br />
 
 [website]: https://anjaldhakal.com.np
 [twitter]: https://twitter.com/AnjalDhakal2

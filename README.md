@@ -19,7 +19,7 @@
 [<img align="left" alt="html" width="50px" src="https://1.bp.blogspot.com/-tNNAljiQaKk/X1CZRzMNFaI/AAAAAAAAA_c/_TagpC3pYE0scbpGcoEhVF8dL-zFUzHngCNcBGAsYHQ/s320/html.png" />][github]
 [<img align="left" alt="CSS" width="50px" src="https://1.bp.blogspot.com/-qpcxiXZFyqg/X1CZPYVssgI/AAAAAAAAA_A/0_fz6tlIq84pPeds2hBKcbaFDFTgM1bWgCNcBGAsYHQ/s320/css3.png" />][github]
 [<img align="left" alt="javascript" width="50px" src="https://1.bp.blogspot.com/-_J_luuLTssY/X1CZSDLOsTI/AAAAAAAAA_k/P19c18i6zy0KNsU4N_shi1tnUOem0nrvQCNcBGAsYHQ/s320/js.png" />][github]
-[<img align="left" alt="Typescript" width="35px" src="https://1.bp.blogspot.com/-n-o4kftqpSc/X1CZT34MC-I/AAAAAAAABAA/rsUiWPlnjeQKevLoPWcC-WtMGDoYuqwcgCNcBGAsYHQ/s320/ts.png" />][github]
+[<img align="left" alt="Typescript" width="50px" src="https://1.bp.blogspot.com/-n-o4kftqpSc/X1CZT34MC-I/AAAAAAAABAA/rsUiWPlnjeQKevLoPWcC-WtMGDoYuqwcgCNcBGAsYHQ/s320/ts.png" />][github]
 [<img align="left" alt="Node js" width="50px" src="https://1.bp.blogspot.com/-kJRmHSv5vMA/X1CZS7VvkxI/AAAAAAAAA_w/XNmN6MMTFfItvb3sQYQR0CdTZxVi7JVCQCNcBGAsYHQ/s320/node.png" />][github]
 
 [<img align="left" alt="Python" width="50px" src="https://1.bp.blogspot.com/-KFAjr5kKuKM/X1CZTkFY3mI/AAAAAAAAA_8/tD6-xEYmRLcNehiWqcN9qFIUTI3D09skACNcBGAsYHQ/s320/python.png" />][github]

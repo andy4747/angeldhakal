@@ -54,8 +54,9 @@
 
 <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=angeldhakal&layout=compact" alt="devded" />
 </p>
-
+<!--
 [![](https://raw.githubusercontent.com/AngelDhakal/AngelDhakal/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+-->
 
 <br/>
 <br/>

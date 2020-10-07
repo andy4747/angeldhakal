@@ -15,7 +15,7 @@
 
 <!-- [<img align="left" alt="vscode" width="45px" src="https://1.bp.blogspot.com/-o4DFm8ezwIo/X1CZU2msEOI/AAAAAAAABAI/pkZ7ACL5OT0SICDfK8MdcyZvg7R0N1nXgCNcBGAsYHQ/s1024/vscode.png" />][github] -->
 
-[<img align="left" alt="html" width="45px" src="https://1.bp.blogspot.com/-tNNAljiQaKk/X1CZRzMNFaI/AAAAAAAAA_c/_TagpC3pYE0scbpGcoEhVF8dL-zFUzHngCNcBGAsYHQ/s320/html.png" />][github]
+<!--[<img align="left" alt="html" width="45px" src="https://1.bp.blogspot.com/-tNNAljiQaKk/X1CZRzMNFaI/AAAAAAAAA_c/_TagpC3pYE0scbpGcoEhVF8dL-zFUzHngCNcBGAsYHQ/s320/html.png" />][github]
 [<img align="left" alt="CSS" width="45px" src="https://1.bp.blogspot.com/-qpcxiXZFyqg/X1CZPYVssgI/AAAAAAAAA_A/0_fz6tlIq84pPeds2hBKcbaFDFTgM1bWgCNcBGAsYHQ/s320/css3.png" />][github]
 [<img align="left" alt="javascript" width="45px" src="https://1.bp.blogspot.com/-_J_luuLTssY/X1CZSDLOsTI/AAAAAAAAA_k/P19c18i6zy0KNsU4N_shi1tnUOem0nrvQCNcBGAsYHQ/s320/js.png" />][github]
 <!--[<img align="left" alt="Typescript" width="45px" src="https://1.bp.blogspot.com/-n-o4kftqpSc/X1CZT34MC-I/AAAAAAAABAA/rsUiWPlnjeQKevLoPWcC-WtMGDoYuqwcgCNcBGAsYHQ/s320/ts.png" />][github] -->

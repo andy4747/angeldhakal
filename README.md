@@ -33,7 +33,9 @@ I am a student at London Metropolitian University. I am a Python Enthusiast.
 [<img align="left" alt="postgreSQL" width="45px" src="https://1.bp.blogspot.com/-N36eWpvpDL8/X1CZTIugmhI/AAAAAAAAA_0/QBUXRByN_i4TOwvBJD3eeuk6Qd_IYddlQCNcBGAsYHQ/s320/postgres.png" />][github]
 [<img align="left" alt="Linux" width="45px" src="https://1.bp.blogspot.com/-jTvyNlgJzwI/X1CZS1n-x8I/AAAAAAAAA_s/ZgLT8E6JCL0Gbmf3OC-TUwHEg1fb5b_5ACNcBGAsYHQ/s320/linux.png" />][github]
 [<img align="left" alt="git" width="45px" src="https://1.bp.blogspot.com/-1orgmeq3Klg/X1CZQWQ431I/AAAAAAAAA_Q/l5Pb3RunCckA4lkHkyqiLLYIrxHwZbHIwCNcBGAsYHQ/s320/git.png" />][github]
+<!--
 [<img align="left" alt="github" width="45px" src="https://1.bp.blogspot.com/-pRYToi2SxRU/X1CZQnlxKII/AAAAAAAAA_U/nnpKYkbfWiMVLLEipl5H_QLJW019cjBqACNcBGAsYHQ/s320/github.png" />][github]
+-->
 <br/>
 <br/>
 

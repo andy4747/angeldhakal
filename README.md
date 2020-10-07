@@ -1,8 +1,3 @@
-
-### Hi there, I'm Angel 👋
-<br/>
-<br/>
-
 ### Connect with me:
 
 <!-- [<img align="left" alt="anjaldhakal.com.np" width="35px" src="https://www.pngitem.com/pimgs/m/529-5296115_logo-icon-web-png-png-download-transparent-background.png" />][website] -->

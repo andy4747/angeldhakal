@@ -1,7 +1,7 @@
 
 ### Hi there, I'm Angel 👋
 
-[<img align="center" alt="Twitter" width="1100px" src="https://www.internetcreation.net/wp-content/uploads/2015/04/banner-web-development.png" />][github]
+<!--[<img align="center" alt="Twitter" width="1100px" src="https://www.internetcreation.net/wp-content/uploads/2015/04/banner-web-development.png" />][github] -->
 
 ---
 

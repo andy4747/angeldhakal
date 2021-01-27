@@ -11,7 +11,7 @@
 <br />
 
 [website]: https://anjaldhakal.com.np
-[twitter]: https://twitter.com/AnjalDhakal2
+[twitter]: https://twitter.com/angel_dhakal
 [instagram]: https://www.instagram.com/__anjal__dhakal__/
 [linkedin]: https://www.linkedin.com/in/angeldhakal/
 [facebook]: https://www.facebook.com/anjal.dhakal.96/

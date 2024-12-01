@@ -1,14 +1,65 @@
-### Connect with me:
+<div align="center">
+  <h1>👋 Hi, I'm Andy</h1>
+  <p>
+    <img src="https://img.shields.io/badge/-Software%20Engineer-333333?style=flat&logo=computer" />
+    <img src="https://komarev.com/ghpvc/?username=andy4747&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  </p>
+</div>
 
-<!-- [<img align="left" alt="anjaldhakal.com.np" width="35px" src="https://www.pngitem.com/pimgs/m/529-5296115_logo-icon-web-png-png-download-transparent-background.png" />][website] -->
+## 🚀 About Me
 
-[<img align="left" alt="Twitter" width="35px" src="https://logodownload.org/wp-content/uploads/2014/09/x-logo-2-1.png" />][X]
-[<img align="left" alt="LinkedIn" width="35px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
+I'm a passionate Software Engineer who loves building innovative solutions and contributing to open-source projects. I believe in writing clean, maintainable code and continuously learning new technologies.
 
-<br />
-<br />
+## 💻 Tech Stack
 
-[website]: https://codeangel.tech
-[X]: https://x.com/andy__65
-[linkedin]: https://www.linkedin.com/in/angeldhakal/
-[github]: https://github.com/andy4747
+```text
+Languages:        Go, Elixir, JavaScript, Python, Java
+Frontend:         React.js, Next.js, HTML5, CSS3
+Backend:          Node.js, Django, Phoenix, Go
+Databases:        PostgreSQL, Redis
+Cloud & DevOps:   AWS, Docker, CI/CD, Terraform
+Tools:            Git, VSCode, Postman, Linux
+```
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=andy4747&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andy4747&theme=dark" alt="GitHub Streak" />
+</div>
+
+## 🌟 Featured Projects
+
+- **[Project Name]** - Brief description
+- **[Project Name]** - Brief description
+- **[Project Name]** - Brief description
+
+## 🎯 Current Focus
+
+- 🔭 I'm currently working on improving system design skills
+- 🌱 Learning about distributed systems and microservices
+- 👯 Looking to collaborate on open-source projects
+- 💬 Ask me about backend development and system architecture
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/angeldhakal">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/andy__65">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
+
+## 📌 Fun Facts
+
+- ⚡ I love contributing to open-source projects
+- 🎮 When not coding, I enjoy [long drive, working on cars]
+- 📚 Always reading about new technologies
+
+---
+
+<div align="center">
+  <i>Happy Coding! 🚀</i>
+</div>

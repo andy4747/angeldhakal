@@ -2,7 +2,7 @@
   <h1>👋 Hi, I'm Andy</h1>
   <p>
     <img src="https://img.shields.io/badge/-Software%20Engineer-333333?style=flat&logo=computer" />
-    <img src="https://komarev.com/ghpvc/?username=andy4747&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+<!--     <img src="https://komarev.com/ghpvc/?username=andy4747&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> -->
   </p>
 </div>
 

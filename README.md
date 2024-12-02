@@ -30,9 +30,9 @@ Tools:            Git, VSCode, Postman, Linux
 
 ## 🌟 Featured Projects
 
-- **[Project Name]** - Brief description
-- **[Project Name]** - Brief description
-- **[Project Name]** - Brief description
+- **[Pong Mania]** - Experience the nostalgia of the original arcade game! Challenge your friends or play against AI in this classic two-player game.
+- **[codeangel.tech]** - My portfolio site.
+- **[Pet Connect]** - A platform to help pets find loving homes and report lost pets.
 
 ## 🎯 Current Focus
 
